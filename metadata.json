@@ -1,0 +1,6 @@
+{
+  "name": "DICOM & NNT Viewer",
+  "description": "Medical imaging file reader and viewer for DICOM (.dcm, .dicom) and NNT Viewer (.nnt, .nntx) formats with CBCT 3D volume tools, drag-and-drop, and cine mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
